@@ -25,6 +25,8 @@ Fermion: BLE Sensor Beacon, a wireless beacon that broadcasts sensor data via Bl
 #### 📜 Hackster Project  
 🔗 https://www.hackster.io/maheshyadav216/dfrobot-s-fermion-ble-sensor-beacon-15c910   
 
+🔗 https://www.hackster.io/maheshyadav216/smart-home-using-dfrobot-fermion-ble-sensor-beacon-f6161b  
+
 ------------------------------------------------------------------------------------------------------
 
 📕 **YouTube Video Link**  
